@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Treklogue</string>
+    <string name="home_name">Home</string>
+    <string name="profile_name">Profile</string>
+    <string name="list_name">List</string>
+    <string name="landmark_name">Landmark</string>
+    <string name="home_button">Home Button</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_in">Log In</string>
+    <string name="already_have_account">Already have an account? Log in</string>
+    <string name="does_not_have_account">Don\'t have an account? Create account</string>
+    <string name="log_out">Log Out</string>
+    <string name="permissions_error">You are not allowed to delete or modify the current item that doesn\'t belong to you.</string>
+
+    <!-- Strings related to map view -->
+    <string name="landmark_distance_too_far">You\'re too far away from the landmark!</string>
+    <string name="loading_permissions">Please allow location permissions…</string>
+    <string name="loading_location">Retrieving initial location…</string>
+
+    <!-- Strings related to list view -->
+    <string name="nearby_landmarks">Nearby Landmarks</string>
+    <string name="add_journal_entry">Add Journal</string>
+    <string name="loading_landmarks">Retrieving your nearby landmarks…</string>
+
+    <!-- Strings related to journal entries -->
+    <string name="my_journal_entries">My Journal Entries</string>
+    <string name="name_of_landmark">Name of Landmark</string>
+    <string name="date_of_visit">Date of Visit</string>
+    <string name="personal_note">Personal Note</string>
+    <string name="personal_photos">Personal Photos/Videos</string>
+    <string name="personal_rating">Personal Rating</string>
+    <string name="rating_1">Bad</string>
+    <string name="rating_2">Average</string>
+    <string name="rating_3">Love it!</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <!-- Strings related to settings -->
+    <string name="settings_name">Settings</string>
+    <string name="settings_group_profile">Profile</string>
+    <string name="settings_group_permissions">Permissions\n(note: can change in Apps > Treklogue > Permissions)</string>
+    <string name="settings_toggle_notifications">Enable nearby landmark notifications</string>
+    <string name="settings_toggle_location">Allow Treklogue to access my location</string>
+    <string name="settings_toggle_location_revoke">Allow Treklogue to access my location\n(restart to take effect)</string>
+    <string name="feedback">Please share your thoughts with us</string>
+    <string name="channel_name">Treklogue</string>
+    <string name="landmark_set_name_reminder">Please set a name for this landmark</string>
+
+    <!-- Strings related to terms and conditions -->
+    <string name="agreement">"* By using Treklogue, you agree to our "</string>
+    <string name="terms_and_conditions_click">"Terms and Conditions"</string>
+    <string name="terms_and_conditions_title">"Treklogue - Terms and Conditions"</string>
+    <string name="terms_and_conditions">"Welcome to Treklogue! These Terms and Conditions govern your use of the Treklogue Travel Journal App. By accessing or using Treklogue, you agree to comply with these Terms and Conditions. Please read them carefully.\n
+Community Guidelines:
+Treklogue encourages responsible travel practices. Users are expected to adhere to community guidelines aimed at preserving the environment and respecting local communities when visiting landmarks. This includes but is not limited to:
+- Proper disposal of waste and litter.
+- Respect for local customs, traditions, and cultural sensitivities.
+- Consideration for wildlife and natural habitats.
+- Minimization of environmental impact.
+Users found violating these guidelines may face penalties, including account suspension or termination.\n
+Risk Acknowledgment:
+Users acknowledge and accept that Treklogue is a self-recording travel journal app. As such, users engage with the app at their own risk.
+Treklogue does not assume responsibility for any accidents, injuries, or damages that may occur while using the app, including but not limited to physical harm, data loss, or any adverse consequences resulting from user actions.
+Users are responsible for their own safety and well-being while using Treklogue, including assessing their capabilities and exercising caution in unfamiliar environments.\n
+Inclusivity and Accessibility:
+Treklogue is committed to inclusivity and accessibility. We strive to accommodate the diverse needs and abilities of all users.
+While we endeavor to create an inclusive platform, users acknowledge that Treklogue may not fully address the needs of every individual or group.
+Users with specific accessibility requirements are encouraged to provide feedback to help us improve the app's accessibility features.\n
+User Conduct:
+Users are prohibited from engaging in any activity that may:
+- Violate applicable laws or regulations.
+- Infringe upon the rights of others.
+- Cause harm to individuals, communities, or the environment.
+Users must respect the privacy and intellectual property rights of others.
+Treklogue reserves the right to remove any content or suspend accounts that violate these Terms and Conditions.\n
+Feedback and Suggestions:
+Treklogue values user feedback and suggestions for improvement. Users are encouraged to provide feedback and report any issues or concerns.
+By submitting feedback or suggestions, users grant Treklogue the right to use and implement such feedback without any obligation or compensation.\n
+Modification of Terms:
+Treklogue reserves the right to modify these Terms and Conditions at any time. Updated terms will be effective upon posting.
+Users are responsible for regularly reviewing the Terms and Conditions for any changes.
+Continued use of Treklogue after the posting of modified terms constitutes acceptance of the changes.\n
+Governing Law:
+These Terms and Conditions shall be governed by and construed in accordance with the laws of Canada.
+Any disputes arising from or relating to these Terms and Conditions shall be subject to the exclusive jurisdiction of the courts of Canada.
+By using Treklogue, you agree to abide by these Terms and Conditions. If you do not agree with any part of these terms, you must not use Treklogue.\n
+If you have any questions or concerns regarding these Terms and Conditions, please contact us at treklogue@gmail.com.\n
+Thank you for using Treklogue!"</string>
+</resources>
